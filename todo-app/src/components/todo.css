@@ -1,0 +1,47 @@
+#todoapp{
+    background-color: aliceblue;
+    margin: 100px;
+    padding: 10px;
+    border-radius: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+input{
+
+    width:400px;
+
+    height: 50px;
+    border-radius: 10px;
+
+}
+#plus{
+    background-color: blue;
+    padding: 9px;
+    border-radius: 10px;
+    width:100px;
+    color: white;
+    font-size: 30px;
+    margin-left: 10px;
+    padding-bottom: 12px;
+  
+}
+ul{
+    list-style: none;
+    padding: 10px;
+}
+#listitem{
+    display: flex;
+    color:blue;
+    font-size: 30px;
+    padding-left: 30%;
+    
+}
+#cross{
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    background-color: brown;
+    color:white;
+    font-size: 15px;
+    margin-right: 10px;
+}
